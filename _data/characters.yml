@@ -1,0 +1,124 @@
+- name: Mario
+  image: mario.png
+- name: Donkey Kong
+  image: donkey-kong.png
+- name: Link
+  image: link.png
+- name: Samus
+  image: samus.png
+- name: Yoshi
+  image: yoshi.png
+- name: Kirby
+  image: kirby.png
+- name: Fox
+  image: fox.png
+- name: Pikachu
+  image: pikachu.png
+- name: Luigi
+  image: luigi.png
+- name: Ness
+  image: ness.png
+- name: Captain Falcon
+  image: captain-falcon.png
+- name: Jigglypuff
+  image: jigglypuff.png
+- name: Peach
+  image: peach.png
+- name: Daisy
+  image: daisy.png
+- name: Bowser
+  image: bowser.png
+- name: Ice Climbers
+  image: ice-climbers.png
+- name: Sheik
+  image: sheik.png
+- name: Zelda
+  image: zelda.png
+- name: Dr. Mario
+  image: dr-mario.png
+- name: Pichu
+  image: pichu.png
+- name: Falco
+  image: falco.png
+- name: Marth
+  image: marth.png
+- name: Lucina
+  image: lucina.png
+- name: Young Link
+  image: young-link.png
+- name: Ganondorf
+  image: ganondorf.png
+- name: Mewtwo
+  image: mewtwo.png
+- name: Roy
+  image: roy.png
+- name: Mr. Game & Watch
+  image: mr-game-and-watch.png
+- name: Meta Knight
+  image: meta-knight.png
+- name: Pit
+  image: pit.png
+- name: Dark Pit
+  image: dark-pit.png
+- name: Zero Suit Samus
+  image: zero-suit-samus.png
+- name: Wario
+  image: wario.png
+- name: Snake
+  image: snake.png
+- name: Ike
+  image: ike.png
+- name: Pokemon Trainer
+  image: pokemon-trainer.png
+- name: Diddy Kong
+  image: diddy-kong.png
+- name: Lucas
+  image: lucas.png
+- name: Sonic
+  image: sonic.png
+- name: King Dedede
+  image: king-dedede.png
+- name: Olimar
+  image: olimar.png
+- name: Lucario
+  image: lucario.png
+- name: R.O.B.
+  image: rob.png
+- name: Toon Link
+  image: toon-link.png
+- name: Wolf
+  image: wolf.png
+- name: Villager
+  image: villager.png
+- name: Mega Man
+  image: mega-man.png
+- name: Wii Fit Trainer
+  image: wii-fit-trainer.png
+- name: Rosalina & Luma
+  image: rosalina.png
+- name: Little Mac
+  image: little-mac.png
+- name: Greninja
+  image: greninja.png
+- name: Palutena
+  image: palutena.png
+- name: Pac-Man
+  image: pac-man.png
+- name: Robin
+  image: robin.png
+- name: Shulk
+  image: shulk.png
+- name: Bowser JR.
+  image: bowser-jr.png
+- name: Duck Hunt
+  image: duck-hunt.png
+- name: Ryu
+  image: ryu.png
+- name: Cloud
+  image: cloud.png
+- name: Corrin
+  image: corrin.png
+- name: Bayonetta
+  image: bayonetta.png
+- name: Inkling
+  image: inkling.png

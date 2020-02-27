@@ -1,0 +1,10 @@
+# --- General options --- #
+
+# Name of website
+title: Smash Bros Character Select
+
+# Short description of your site
+description: Smash Bros Character Select
+
+# Style for links
+permalink: /:categories/:year/:month/:day/:title
